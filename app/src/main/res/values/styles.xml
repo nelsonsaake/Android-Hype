@@ -11,4 +11,8 @@
         <item name="colorOnSecondary">@color/secondaryTextColor</item>
     </style>
 
+    <style name="Theme" parent="Theme.AppCompat.Light.NoActionBar">
+
+    </style>
+
 </resources>

@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Hype</string>
+    <string name="landing_title">HYPE</string>
+    <string name="landing_text">Make it shareable</string>
 </resources>
